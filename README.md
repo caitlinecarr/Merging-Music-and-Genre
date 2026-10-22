@@ -6,3 +6,6 @@ TunePad musical composition, including tracks and code.
 
 TunePad Composition Link:
 https://tunepad.com/project/133679
+
+TunePad Code Handbook:
+https://learn.tunepad.com/docs/
