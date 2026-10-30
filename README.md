@@ -12,6 +12,10 @@ Merging Music & Genre is a musical composition that combines two Beyoncé songs,
 Composition Link via TunePad:
 https://tunepad.com/project/133679
 
+Original Songs:
+* https://www.youtube.com/watch?v=Mv5f9Q2LJYM
+* https://www.youtube.com/watch?v=CUyQSKe75L4
+
 ## TunePad Resources
 TunePad Code Handbook:
 https://learn.tunepad.com/docs/
